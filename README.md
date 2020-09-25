@@ -1,4 +1,4 @@
-Tableau link: "https://public.tableau.com/profile/maryam1102#!/"
+[Link to dashboard] "https://public.tableau.com/profile/maryam1102#!/"
 
 # NYC Bikesharing
 
